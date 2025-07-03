@@ -8,7 +8,7 @@
 
 - 🎓 Pursuing B.E. in Computer Science and Engineering  
 - 🔭 Currently working on React, Python & ML projects  
-- 🌱 Learning advanced Machine Learning, Deep Learning & MLOps  
+- 🌱 Learning advanced Machine Learning  
 - 💡 Building real-world projects in data science and full-stack development  
 - 💼 Preparing for high-impact roles in tech: SDE, Data Analyst, and ML Engineer  
 - 🧠 Curious about AI, NLP, and LLMs
@@ -33,7 +33,6 @@
 
 ## 📊 GitHub Stats
 
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-ganesh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=student-ganesh&layout=compact&theme=radical)
 
 ---
@@ -45,4 +44,3 @@
 ---
 
 > ⚡ *"Always curious. Always building."*
-
