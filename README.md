@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @student-ganesh
-- 👀 I’m interested in technical proggramming ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ganesh Kadam (@student-ganesh)
 
-<!---
-student-ganesh/student-ganesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 A passionate Software Engineer & Data Science enthusiast from India.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing B.E. in Computer Science and Engineering  
+- 🔭 Currently working on React, Python & ML projects  
+- 🌱 Learning advanced Machine Learning, Deep Learning & MLOps  
+- 💡 Building real-world projects in data science and full-stack development  
+- 💼 Preparing for high-impact roles in tech: SDE, Data Analyst, and ML Engineer  
+- 🧠 Curious about AI, NLP, and LLMs
+
+---
+
+## 📚 Tech Stack
+
+**Languages:**  
+`JavaScript` `Python` `SQL` `Java` `C++`
+
+**Web Development:**  
+`React.js` `Flask` `TailwindCSS` `Parcel`
+
+**Data Science / ML:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `VSCode` `MySQL` `PostgreSQL` `Google Colab`
+
+---
+
+## 📊 GitHub Stats
+
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-ganesh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=student-ganesh&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+- 📬 [Email](ganukadam1978@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ganesh-kadam-0694a126a)  
+---
+
+> ⚡ *"Always curious. Always building."*
+
