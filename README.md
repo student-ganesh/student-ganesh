@@ -33,7 +33,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=student-ganesh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=student-ganesh&layout=compact&theme=radical&cache=123456)
+
 
 ---
 
